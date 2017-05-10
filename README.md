@@ -1,5 +1,7 @@
 # Machine-Learning-from-Scratch
 
+Author: Yaoyang Zhang
+
 This repository includes codes and some results from the homework of CS 189/289A at UC Berkeley. This course covers theoretical foundations of machine learning as well as hands-on implementation of popular classsification/regression/clustering techniques. All the codes are written in Python and topics include:
 
 ## 1. SVM for MNIST, Spam and CIFAR-10 
