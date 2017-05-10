@@ -6,5 +6,5 @@ This repository includes codes and some results from the homework of CS 189/289A
 ## 2. LDA and QDA for MNIST and Spam
 ## 3. Logistic Regression
 ## 4. Decision Tree and Random Forest for Census data and Titanic data
-## 5. Neural Networt for letter recognition
+## 5. Neural Network for letter recognition
 ## 6. K-means, PCA, and Collaborative Filtering for recommendation system.
